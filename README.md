@@ -1,12 +1,12 @@
-## Hello World!👋 
+## Hello World!😇
 
 <a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
 
 <!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
 
-I am a Research Scientist, who is passionate about creating **Conversational AI systems** and **intelligent AI applications** for human learning. 👨🏻‍💻
+I am a Data Analyst, who is passionate about creating **Conversational AI systems** and **intelligent AI applications** for human learning. 👨🏻‍💻
 
-I have a Ph.D. in Computer Science and I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
+I have an Assosiate's Degree in General Science and am currently in school to get my Bachelor's Degree. I love working with multi-disciplinary teams to create innovative technologies for learners from all ages and backgrounds. 
 
 Some languages/technologies I enjoy working with are **NodeJS, ReactJS, and of course Python!** :)  
 
