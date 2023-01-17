@@ -12,6 +12,6 @@ Some languages/technologies I enjoy working with are **PowerBI, SQL, and of cour
 
 ## Let's Connect! 🤝
 
-- My home: <a href="https://www.linkedin.com/in/mehmet-celepkolu/">LinkedIn</a> 🌐
+- My home: <a href="https://www.linkedin.com/in/erem-tutal-658b30260/">LinkedIn</a> 🌐
 
 <b>
